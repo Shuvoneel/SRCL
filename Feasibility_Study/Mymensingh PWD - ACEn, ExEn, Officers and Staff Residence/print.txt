@@ -1,0 +1,10 @@
+	Mymensingh PWD
+	1. cover page - color
+	2. forwarding letter - color
+	3. study team - color
+	4. report
+		color - 2,3,4,5,11,12,13
+		black - page no 0,1,6,7,8,9,10,
+	5. annex 1 - 3 letter
+	6. annex 2 - all design
+	7. annex 3 - economic evaluation, financial doc
